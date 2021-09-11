@@ -1,2 +1,2 @@
 # Cadambabo-NFTs
-Cadambabo NFTs is creating a series of authentic artwork made by hand and minted into 1 of a kind NFTs
+Cadambabo NFTs is creating a series of authentic artwork made by hand, the project is to make mostly 1 of a kind original NFT artwork, there are projects in the Cardano ecosystem that will get Cadambabo NFTs as a gift to their team members to show appreciation for their work, in this case, some Cadambabo NFTs will have multiples but specifically for the team members, heres an example: if Cadambabo NFTs decides to make a project's team members their own NFTs as a gift, if there are 10 members there will be 10 of that same NFT minted and numbered accordingly.
